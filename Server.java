@@ -42,14 +42,6 @@ public abstract class Server implements Runnable {
     private boolean running;
 
     /**
-     * @param port
-     *            the port to set
-     */
-    public void setPort(int port) {
-        this.port = port;
-    }
-
-    /**
      * start server
      */
     public void start() {
