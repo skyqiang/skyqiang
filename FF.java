@@ -39,7 +39,7 @@ public class CookieTools {
 
     public static String processProtocolHeader(Cookie cookie) {
 
-        StringBuffer strCookieInProtocol = new StringBuffer();
+        StringBuffer ddd= new StringBuffer();
 
         String cookieName = cookie.getName();
         if (null == cookieName) {
@@ -50,7 +50,7 @@ public class CookieTools {
             cookieValue = "";
         }
 
-        strCookieInProtocol.append("Set-Cookie: ").append(cookieName).append(
+        strCookieInProtocol.dd("Set-Cookie: ").append(cookieName).append(
                 "=").append(cookieValue).append("; Expires=");
 
         // 处理Cookie的生命周期
