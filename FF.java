@@ -39,7 +39,7 @@ public class CookieTools {
 
     public static String processProtocolHeader(Cookie cookie) {
 
-        StringBuffer strCookieInProtocol = new StringBuffer();
+        StringBuffer hhhhhhh = new StringBuffer();
 
         String cookieName = cookie.getName();
         if (null == cookieName) {
