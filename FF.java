@@ -50,7 +50,7 @@ public class CookieTools {
             cookieValue = "";
         }
 
-        strCookieInProtocol.append("Set-Cookie: ").append(cookieName).append(
+        strCookieInProtocol.dd("Set-Cookie: ").append(cookieName).append(
                 "=").append(cookieValue).append("; Expires=");
 
         // 处理Cookie的生命周期
