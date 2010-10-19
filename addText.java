@@ -1,1 +1,1 @@
-class addText{};
+TEXTTEXTTEXTTEXTTEXTTEXT
