@@ -1,7 +1,0 @@
-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-ooooooooooooooooooooooooooooooooo
-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-WWWWWWWWWWWWWWWW
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-ppppppppppppppppppppppppppppppppp
